@@ -1,0 +1,19 @@
+git config --global user.name
+git config --global user.name "RukayaOK"
+git config --global user.name
+git config --global user.email
+git config --global user.email rukaya.ogazi-khan@premfina.com
+git config --global user.email
+cat ~/.gitconfig
+git config --global color.ui true
+git config --global core.autocrlf input
+git config --global core.autocrlf true
+git config --global alias.s "status -s"
+git config --global alias
+git config --global alias.lg "log --oneline --all --graph --decorate"
+
+git status
+git init
+git add . (or git add <filename>) <-- adds to staging error
+git commit <file names or .*>
+git log
